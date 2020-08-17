@@ -1,0 +1,10 @@
+https://bootsnipp.com/snippets/M515A
+https://makitweb.com/dynamically-load-content-in-bootstrap-modal-with-ajax/
+
+https://www.codeofaninja.com/2013/09/jquery-ajax-post-example.html
+
+https://www.webslesson.info/2016/10/php-ajax-insert-data-in-mysql-by-using-bootstrap-modal.html
+
+https://makitweb.com/how-to-upload-image-file-using-ajax-and-jquery/
+
+https://makitweb.com/upload-and-store-an-image-in-the-database-with-php/

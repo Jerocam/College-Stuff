@@ -1,0 +1,54 @@
+/* Style collegestuff */
+
+@font-face {
+    font-family:"Cool2";
+    src:url("fonts/CoolStuff.ttf");
+}
+
+@font-face {
+    font-family: "flash2";
+    src:url("fonts/flashrogerschrome_0.ttf");
+}
+
+header {
+    margin: 6em;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 20vh;
+    object-fit: cover;
+}
+
+.minititle {
+    font-family: "Cool2";
+    font-size: 4.5em;
+}
+
+.bigt {
+    font-family: "flash2";
+    font-size: 4em;
+}
+
+.styleBord:focus {
+    border: green 1px solid;
+}
+
+.styleBord:active {
+    border: green 1px solid;
+}
+
+input:required, select:required, textarea:required{
+    border: red 1px solid;
+}
+
+form span {
+    color: red;
+}
+
+footer {
+    background-color: #3c3d41;
+    color: whitesmoke;
+    padding: 1em;
+    text-align: center;
+}
